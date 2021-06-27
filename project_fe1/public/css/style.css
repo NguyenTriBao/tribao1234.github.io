@@ -1,0 +1,381 @@
+.top-header{
+    background: #262626;
+    color: #979797;
+}
+.top-header .sign-in{
+    color: #fff;
+}
+.top-header .ken{
+    background: #808080;
+}
+.logo{
+    height: 50px;
+    width: 150px;
+}
+.top-header .a a{
+    text-decoration: none;
+    color: #979797;
+    margin-right: 30px;
+}
+.top-header a:hover{
+    color: #fff;
+}
+.local{
+    background: #fafafa;
+    border-bottom: #e1e8ed 1px solid;
+}
+.local .aa{
+    margin-top: 15px;
+}
+.local a{
+    text-decoration: none;
+    color: #545454;
+    font-size: 0.8rem;
+    margin-right: 10px;
+}
+.local a:hover{
+    color: #fff;
+    background: #808080;
+    padding: 5px;
+}
+.local .b{
+    border-left: #e1e8ed 1px solid;
+}
+.banner{
+    margin-left: 300px;
+}
+.banner .con a{
+    text-decoration: none;
+    color: #545454;
+    font-size: 0.9rem;
+    padding-left: 5px;
+}
+.banner h3{
+    color: #454545;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.tao{
+    border-bottom: 1px solid #e6ecf0;
+    background: #fafafa;
+}
+.banner .producer a{
+    text-decoration: none;
+    color: #545454;
+    padding-left: 10px;
+    font-size: 0.9rem;
+    color:  #707070;;
+}
+.banner .producer .item{
+    border: 1px solid #e6ecf0;
+    border-bottom: none;
+    background: #fff;
+    color: black;
+    font-weight: bold;
+    padding: 3px;
+}
+.banner .producer .hv:hover{
+    background: #e0e0e0;
+    padding: 3px;
+    color: black;
+}
+.content{
+    padding: 20px 250px;
+}
+.content .row .keng{
+    padding-left: 60px;
+}
+.content .row .col-md-8 .iamge{
+    border: 2px solid #eff2f5;
+    height: 420px;
+}
+.content .row .col-md-8 .link a{
+    text-decoration: none;
+    background: #808080 ;
+    color: #fff;
+    padding: 10px;
+    border-radius: 7%;
+}
+.content .row .col-md-8 .iamge .link{
+    margin-top: 15px;
+    font-size: 1.2rem;
+    text-align: center;
+}
+.content .row .col-md-8 .iamge a:hover{
+    background: #0384b4;
+}
+.content .row .col-md-8 a{
+    text-decoration: none;
+}
+.content .row .col-md-8 a:hover{
+    text-decoration: underline;
+}
+.favorite{
+    margin-top: 30px;
+    text-align: center;
+}
+.favorite a{
+    text-decoration: none;
+    color: #666666;
+    font-size: 1.2rem;
+    background: #e0e0e0;
+    padding: 10px;
+    padding-right: 50px;
+    border-radius: 5%;
+}
+.ghi h5{
+    margin-top: 40px;
+    color: #545454;
+    border-bottom: #d5d5d5 1px solid;
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+.ghi a{
+    text-decoration: none;
+}
+.ghi h6{
+    font-size: 1.2rem;
+    padding: 20px 0;
+}
+.koi{
+    font-size: 1.2rem;
+}
+.regular{
+    padding: 0 15px;
+    border: 1px solid #e4eaef;
+}
+.regular a:hover{
+    text-decoration: underline;
+}
+.regular .ll .col-md-3{
+    font-size: 1.3rem;
+}
+.regular .leng{
+    border-top: 1px solid #e4eaef;
+}
+.leng {
+    font-size: 0.8rem;
+}
+.leng a{
+    text-decoration: none;
+    padding-left: 15px;
+}
+.regular .row .hh{
+    font-size: 0.9rem;
+}
+.toang a{
+    text-decoration: none;
+    padding-left: 20px;
+}
+.toang .toan{
+    padding-top: 20px;
+    font-size: 0.8rem;
+    font-weight: ita;
+}
+.add-to a{
+    text-decoration: none;
+    color: #fff;
+    background: #7dad3e;
+    padding: 10px 80px;
+    border-radius: 10px;
+
+}
+.add-to{
+    padding-top: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+.buy a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 95px;
+    border-radius: 10px;
+    background: #808080;
+}
+.buy{
+    text-align: center;
+    padding-top: 25px;
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding-bottom: 25px;
+}
+.pto{
+    margin-top: 20px;
+    border: #e6ecf0 1px solid;
+    height: 200px;
+}
+.pto .row .col-md-4{
+    padding-left: 20px;
+}
+.pto .theme a{
+    text-decoration: none;
+    color: #212529;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.pto .theme{
+    text-align: center;
+}
+.ab a{
+    text-decoration: none;
+    color: #545454;
+}
+.col-md-4 .pto .ab{
+    padding: 5px;
+    margin-top: 30px;
+    text-align: center;
+    background: #e0e0e0;
+    border-radius: 10px;
+}
+.sale{
+    margin-top: 30px;
+    border: #e6ecf0 1px solid;
+    font-size: 1.3rem;
+}
+.sale p{
+    padding-top: 10px;
+    color: #545454;
+    padding: 5px;
+}
+.the-a a{
+    text-decoration: none;
+    padding: 5px;
+}
+.the-a{
+    padding: 5px;
+    margin-top: 30px;
+    border: #e6ecf0 1px solid;
+    font-size: 1.3rem;
+}
+.rating{
+    padding: 10px;
+    margin-top: 30px;
+    border: #e6ecf0 1px solid;
+}
+.cn{
+    margin-top: 30px;
+    border: #e6ecf0 1px solid;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+.cn .col-md-7 a{
+    text-decoration: none;
+}
+.cn .col-md-7 a:hover{
+    text-decoration: underline;
+}
+.cn .col-md-5{
+    font-weight: bold;
+}
+.end-4{
+    font-size: 0.8rem;
+    text-align: center;
+}
+.end-4 a{
+    text-decoration: none;
+}
+.end-4 a:hover{
+    text-decoration: underline;
+}
+.ghi a:hover{
+    text-decoration: underline;
+}
+.cuoi .row .col-md-4 a{
+    text-decoration: none;
+    color: #262626;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.cuoi{
+    background: #333333;
+    margin-top: 50px;
+}
+.cuoi .lef{
+    padding: 50px 300px;
+}
+.chu{
+    background: #fff;
+    padding-bottom: 15px;
+}
+.bot-footer{
+    background: #1a1a1a;
+    color: #606060;
+}
+.bot-footer .gh a{
+    text-decoration: none;
+    color: #fff;
+}
+.bot-footer .gh a:hover{
+    text-decoration: underline;
+}
+.bot-footer .gh{
+    border-bottom: 1px solid #606060;
+}
+.bot-footer a{
+    text-decoration: none;
+}
+.decor{
+    margin-top: 50px;
+}
+.thea p a{
+    color: #fff;
+}
+.thea p a:hover{
+    text-decoration: underline;
+}
+.nho{
+    font-size: 0.8rem;
+    color: #606060;
+}
+.snip1205 {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    text-align: center;
+  }
+.snip1205 * {
+    box-sizing: border-box;
+}
+.snip1205 img {
+    max-width: 100%;
+    vertical-align: top;
+    transition: all 0.2s ease-in-out;
+  }
+  .snip1205 a {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 50px;
+    color: #000000; 
+    text-decoration: none; 
+    color: #fff;
+    transform:  translate(-50%, -50%) scale(0);
+  }
+  .snip1205:hover img,
+  .snip1205.hover img {
+    opacity: 0.5;
+    filter:grayscale(100%);
+  }
+  .snip1205:hover a,
+  .snip1205.hover a {
+    transform: translate(-50%, -50%) scale(1);
+  }
+
+  .end-game{
+      margin-top: 30px;
+      border-top: 1px solid #606060;
+  }
+.trang{
+    margin-top: 15px;
+}
+.bot-footer .trang a{
+    text-decoration: none;
+    color: #fff;
+    padding-right: 30px;
+}
+.tolen{
+    font-size: 1.5rem;
+    padding-left: 10px;
+}
+
+

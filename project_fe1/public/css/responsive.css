@@ -1,0 +1,98 @@
+/*Mobile*/
+@media(max-width:740px)
+{
+  body{
+    margin: 0;
+    padding: 0;
+  }
+  .top-header{
+    padding:0 12px 0 12px;
+  }
+  .local{
+    padding:0 12px 0 12px;
+  }
+  .tao{
+    padding:0 12px 0 12px;
+  }
+  .content{
+    padding:0 12px 0 12px;
+  }
+  .content .link-1 {
+    display: none;
+  }
+  .content .row .col-md-8 .iamge{
+    height: 280px;
+  }
+  .favorite a{
+    font-size: 14px;
+    padding: 12px;
+  }
+  .toang a{
+    display: none;
+  }
+  .toang .toan{
+    padding-top: 0;
+  }
+  .add-to a{
+    padding: 15px 75px;
+    border-radius: 5px;
+  }
+  .buy a{
+    padding: 10px 88px 13px 88px;
+    border-radius: 5px;
+  }
+  .img-fluid{
+    float: left;
+    height: 34px;
+    width: 30px;
+  }
+  .img-fluid-1{
+    
+  }
+  .sale{
+    display: none;
+  }
+  .the-a a{
+    display: none;
+  }
+  .rating{
+    display: none;
+  }
+  .chu{
+    border-radius: 5px;
+    padding-left: 10px;
+    margin-right: -3px;
+    
+  }
+  .lk{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .banner{
+    margin: 0;
+  }
+  .cuoi{
+    padding:0 12px 0 12px;
+  }
+  
+  .content .row .keng{
+    padding:0 12px 0 12px;
+  }
+  .cuoi .lef{
+    padding: 0;
+  }
+  .end-game{
+    text-align: center  ;
+  }
+  .end-game a{
+    font-size: 14px;
+    margin: 0 10px 0 10px;
+  }
+  .tao{
+    font-size: 50px;
+    margin: 0;
+  }
+
+
+  
+}
